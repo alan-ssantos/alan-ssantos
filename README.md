@@ -42,11 +42,9 @@ Meu foco está em **Acessibilidade, Performance e SEO**, pois acredito que esses
 ---
 
 ## 🔗 Vamos conversar?
+> 📫 **Estou disponível para novas oportunidades**, especialmente em posições de **Front-End ou Full Stack**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-ssantos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alansantos.dev.br)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alansantos.dev)
 
----
-
-📫 **Aberto a novas oportunidades**, especialmente em posições **Front-End ou Full Stack**.
