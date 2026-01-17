@@ -3,8 +3,6 @@
 Desenvolvedor Front-End com **mais de 3 anos de experiência** na construção de aplicações web **modernas, escaláveis e performáticas**.  
 Meu foco está em **Acessibilidade, Performance e SEO**, pois acredito que esses são pilares essenciais para qualquer produto digital bem desenvolvido.
 
----
-
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor Front-End com experiência em **React.js, Next.js, Astro e PHP**
