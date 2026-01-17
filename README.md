@@ -1,4 +1,9 @@
-# 👋 Olá, sou o Alan Santos!
+<p align="center">
+  <img src="./github-banner.png" alt="Capa do perfil" />
+</p>
+
+
+# Olá, sou o Alan Santos!
 
 Desenvolvedor Front-End com **mais de 3 anos de experiência** na construção de aplicações web **modernas, escaláveis e performáticas**.  
 Meu foco está em **Acessibilidade, Performance e SEO**, pois acredito que esses são pilares essenciais para qualquer produto digital bem desenvolvido.
