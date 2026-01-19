@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./github-banner.png" alt="Capa do perfil" />
-</p>
-
+<p align="center"><a href="https://alansantos.dev.br/"><picture><source media="(min-width: 860px)"srcset="assets/banner-github-860w.png"><source media="(min-width: 580px)"srcset="assets/banner-github-580w.png"><img alt="Capa do perfil"src="assets/banner-github-320w.png"></picture></a>
 
 # Olá, sou o Alan Santos!
 
@@ -22,6 +19,7 @@ Meu foco está em **Acessibilidade, Performance e SEO**, pois acredito que esses
 ## 🛠️ Tecnologias
 
 ### Front-End
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,20 +29,22 @@ Meu foco está em **Acessibilidade, Performance e SEO**, pois acredito que esses
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
 ### Back-End & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Design e Prototipagem
+### Design
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🔗 Vamos conversar?
+
 > 📫 **Estou disponível para novas oportunidades**, especialmente em posições de **Front-End ou Full Stack**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-ssantos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alansantos.dev.br)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alansantos.dev)
-
