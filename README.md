@@ -1,4 +1,4 @@
-<p align="center"><a href="https://alansantos.dev.br/"><picture><source media="(min-width: 860px)"srcset="assets/banner-github-860w.png"><source media="(min-width: 580px)"srcset="assets/banner-github-580w.png"><source media="(min-width: 320px)"srcset="assets/banner-github-320.png"><img alt="Capa do perfil"src="assets/banner-github-860w.png"></picture></a>
+<p align="center"><a href="https://alansantos.dev.br/"><picture><source media="(min-width: 860px)"srcset="assets/banner-github-860w.png"><source media="(min-width: 580px)"srcset="assets/banner-github-580w.png"><img alt="Capa do perfil"src="assets/banner-github-320w.png"></picture></a>
 
 # Olá, sou o Alan Santos!
 
